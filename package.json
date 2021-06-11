@@ -14,7 +14,10 @@
   "author": "Seval Karaman",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13",
+    "slugify": "^1.5.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
